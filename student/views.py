@@ -4,11 +4,11 @@ from django.shortcuts import render
 
 
 def home(request):
-    return render(request, "home.html")
+    return render(request, "s_home.html")
 
 
 def index(request):
-    return render(request, "index.html")
+    return render(request, "home.html")
 
 
 def login(request):
