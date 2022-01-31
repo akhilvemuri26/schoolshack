@@ -1,0 +1,2 @@
+# SchoolShack
+ Innovative School Portal
